@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "no-translanguaging"
+  ],
+  "content_notice": "",
+  "eventServerUrl": false,
+  "routes": {
+    "/": "wp/wp_sba_part1"
+  },
+  "title": "Ambitious Science Teaching · Unit 1: Investigating Matter (SBA preview)"
+}

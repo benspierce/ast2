@@ -1,0 +1,43 @@
+{
+  "activities": {
+    "wp/wp_activities_part1": {
+      "availableVariants": {
+        "en-Latn-US": "supported"
+      },
+      "category": "whose_phenomenon",
+      "description": {
+        "en-Latn-US": "Whose Phenomenon? (activity bank). The exercises the session screens mount, defined once each: the look-fors matching, the phenomenon-or-topic gut-check, the definition in your own words, the kinds-of-question matching, the sort of Ms. Boyd's eight questions, the written discourse contrast, the transcript-marking, the written equity read, the mirror, the anchor choice with its four branch guides, and the justification. The transcript itself lives here too."
+      },
+      "editPath": "whose_phenomenon_activities_part1.olx",
+      "editSource": "file:content",
+      "id": "wp/wp_activities_part1",
+      "index": 97,
+      "role": "activity",
+      "status": "usable",
+      "tag": "Vertical",
+      "title": {
+        "en-Latn-US": "Whose Phenomenon? — Activities"
+      }
+    },
+    "wp/wp_sba_part1": {
+      "availableVariants": {
+        "en-Latn-US": "supported"
+      },
+      "category": "whose_phenomenon",
+      "description": {
+        "en-Latn-US": "Ambitious Science Teaching, Unit 1: Investigating Matter. Before a placement block, a teacher candidate and four classmates study the transcript of their cooperating teacher launching a fourth-grade unit on matter with a frozen Michigan lake, argue about what it did with what four children offered, replay it making her moves against the clock, and plan a launch of their own for the same room."
+      },
+      "editPath": "whose_phenomenon_sba_part1.olx",
+      "editSource": "file:content",
+      "id": "wp/wp_sba_part1",
+      "index": 96,
+      "role": "activity",
+      "status": "usable",
+      "tag": "Cast",
+      "title": {
+        "en-Latn-US": "Ambitious Science Teaching · Unit 1: Investigating Matter"
+      }
+    }
+  },
+  "ok": true
+}
