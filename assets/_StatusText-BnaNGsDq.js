@@ -1,1 +1,0 @@
-import{v as o,o as r,j as i}from"./index-Dwqu2DsP.js";function c(t){const{field:a="message",graderId:e}=t,s=o(t,e,a),n=r(t,s,{fallback:"",stateKey:e});return i.jsx("span",{children:String(n??"")})}export{c as default};
